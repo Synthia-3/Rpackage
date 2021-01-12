@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610438888514.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ACB02D62",
+    "lastKnownWriteTime" : 1610438882,
+    "last_content_update" : 1610438882,
+    "path" : "D:/bioinfomatic_engine/R_packages_develope/EpiGeneFamily/man/my_pie.Rd",
+    "project_path" : "man/my_pie.Rd",
+    "properties" : {
+        "cursorPosition" : "12,5",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

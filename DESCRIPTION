@@ -1,0 +1,13 @@
+Package: EpiGeneFamily
+Type: Package
+Title: A toolkit of R to deal with Epididymis gene family expression
+Version: 0.1.0
+Author: wu xiaokang
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+imports:ggplot2	
+RoxygenNote: 6.1.1
